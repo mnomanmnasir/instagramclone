@@ -1,0 +1,189 @@
+img#trg{
+    margin-left: 23%;
+    margin-top: 10px;
+    position: absolute;
+    left: 10px;
+}
+
+img{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+form{
+    display: inline-block;
+   margin-left: 65%;
+   position: relative;
+   top: -570px;
+   bottom: -100px;
+   left: -150px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Palette Mosaic', cursive;
+
+    
+    
+}
+
+fieldset{
+    margin-left: -20px;
+    height: 330px;
+
+    width: 350px;
+ } 
+
+ input{
+     padding: 10px;
+
+     /* padding-right: 100px; */
+     width: 260px;
+     height: 15px;
+     
+     /* width: -80px; */
+     /* text-align: center; */
+    
+ }
+
+ label{
+     padding-left: 30px;
+     width: 50px;
+     height: -100px;
+ }
+ button{
+    /* padding: 50px; */
+    padding: 8px;
+    color: white;
+    opacity: 0.6;
+    position: absolute;
+    left: 24px;
+    /* right: 50px; */
+    width: 285px;
+    background-color: cadetblue;
+     
+ }
+
+ a#blue{
+     /* padding-left: 200px ; */
+     /* text-align: center; */
+     /* text-align: center; */
+     padding-left: 40px;
+    position: absolute;
+    top: 256px;
+    left: 80px;
+    cursor: pointer;  
+}
+
+ p{
+     text-align: center;
+     cursor: pointer;
+     /* padding-left: -10px; */
+     margin-left: 10px;
+     
+ }
+
+
+
+fieldset#def
+{
+   
+    /* margin-left: 720px;
+    margin-bottom: 700px;
+    margin-top: -510px; */
+    position: absolute;
+    left: 724px;
+    top: 405px;
+    height: 40px;
+}
+
+/* p.erd{
+    position: sticky;
+    top: -500px;
+} */
+a#red{
+    position: absolute;
+    top: 22px;
+    left: 240px;
+}
+
+p#src{
+    padding-right: 50px;
+
+}
+
+p#ghj{
+    position: absolute;
+    left: 847px;
+    cursor: text;
+    top: 466px;
+}
+
+img#cnd{
+    left: 457px;
+    position: absolute;
+    top: 490px;
+    width: 190px;
+    height: 145px;
+}
+
+img#fst
+{
+
+    position: absolute;
+    left: 620px;
+    top: 527px;
+    width: 160px;
+    height: 70px;
+
+}
+
+ul{
+    position: absolute;
+    left: 510px;
+    /* top: -10px; */
+    text-align: center;
+    margin: -20%;
+    margin-left: -220px;
+    /* margin-bottom: 70px; */
+    margin-top: -320px;
+    cursor: pointer;
+    
+    /* top: -10px; */
+}
+
+li{
+    display: inline;
+    margin: 5px;
+    /* margin-right: 10px; */
+    opacity: 0.4;
+
+}
+
+select{
+    position: absolute;
+    top: 770px;
+    left: 560px;
+    opacity: 0.4;
+    border: none;
+    cursor: pointer;
+
+}
+
+img#pak{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 762px;
+    left: 400px;
+    opacity: 0.4;
+    cursor: text;
+}
+
+p#afg{
+    position: absolute;
+    top: 755px;
+    left: 680px;
+    cursor: text;
+    opacity: 0.4;
+}
